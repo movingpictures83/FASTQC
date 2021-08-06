@@ -1,0 +1,2 @@
+Prefix plugins/FASTQC/example/
+Plugin FASTQC inputfile fastqfiles.txt outputfile .
